@@ -1,4 +1,4 @@
-# assignment_7_databasesrepEmail
+# assignment_7_databases
 
 
 **Exercise 1**
