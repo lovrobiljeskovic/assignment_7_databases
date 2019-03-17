@@ -34,6 +34,12 @@ Set contactPhone = 87654321, repPhone = 87654321
 where contactPhone = 12345678, repPhone = 12345678
 ```
 
+unsafe update statement:
+
+```
+Update CustomerOverview Set repPhone=87654321
+```
+
 
 **Exercise 4**
 
